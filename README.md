@@ -1,0 +1,2 @@
+# BiliMainCommentCrawler
+无需配置SESSDATA，即可轻松获取主站一级评论
